@@ -8,4 +8,6 @@
 
 smoke 누출 단계별 상황: 1~6번 keypad   
 
-관로 센서 이상현상 단계별 상황: Z,X,C,V
+관로 센서 이상현상 단계별 상황: Z,X,C,V   
+
+실행파일은 Keiti.exe 이며 이외로 Keiti_Data, MonoBleedingEdge, UnityCrashHandler64.exe, UnityPlayer.dll 파일을 다운 받고 실행하면 됩니다.
